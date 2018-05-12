@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2376
     wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46290#Pan
 gutenberg_issued: '2014-07-15'
 gutenberg_type: Text
 identifiers:
